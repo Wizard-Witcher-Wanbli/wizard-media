@@ -45,3 +45,6 @@ p6-brevnov2 https://upload.wikimedia.org/wikipedia/commons/f/f0/Brevnov_Monaster
 p6-kulatak https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Praha%2C_Dejvice%2C_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg/1920px-Praha%2C_Dejvice%2C_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg
 p6-kulatak2 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dejvice_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_3.jpg/1920px-Dejvice_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_3.jpg
 p6-hvezda https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/LetohradekHvezda2.jpg/1920px-LetohradekHvezda2.jpg
+kv2026-data-csv https://volby.gov.cz/opendata/kv2026/KV2026_data_20261011_csv.zip
+kv2026-reg-csv https://volby.gov.cz/opendata/kv2026/KV2026reg20261011_csv.zip
+kv2026-cis-csv https://volby.gov.cz/opendata/kv2026/KV2026ciselniky20261011_csv.zip
