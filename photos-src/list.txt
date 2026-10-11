@@ -47,3 +47,8 @@ p6-kulatak2 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dejvice_V%
 p6-hvezda https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/LetohradekHvezda2.jpg/1920px-LetohradekHvezda2.jpg
 nocni-svetlo-iss-hongkong https://eol.jsc.nasa.gov/DatabaseImages/ESC/large/ISS065/ISS065-E-163526.JPG
 nocni-svetlo-pokoj https://images.unsplash.com/photo-1671539466352-01d3085c4432?w=2400&q=90&fm=jpg
+se2026-data-csv https://volby.gov.cz/opendata/se2026/SE2026data20261011_csv.zip
+se2026-reg-csv https://volby.gov.cz/opendata/se2026/SE2026reg20261011_csv.zip
+se2026-cis-csv https://volby.gov.cz/opendata/se2026/SE2026ciselniky20261011_csv.zip
+ps2025-data-csv https://volby.gov.cz/opendata/ps2025/PS2025data20251005_csv.zip
+ps2025-reg-csv https://volby.gov.cz/opendata/ps2025/PS2025reg20251005_csv.zip
