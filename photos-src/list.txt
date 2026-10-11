@@ -40,3 +40,8 @@ vzhled-4 https://images.unsplash.com/photo-1517502166878-35c93a0072f0?w=1600&q=8
 vzhled-5 https://images.unsplash.com/photo-1645636990231-c314711afc20?w=1600&q=85&fm=jpg
 vzhled-6 https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?w=1600&q=85&fm=jpg
 vzhled-7 https://images.unsplash.com/photo-1603252109612-24fa03d145c8?w=1600&q=85&fm=jpg
+p6-brevnov https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/B%C5%99evnovsk%C3%BD_kl%C3%A1%C5%A1ter_2019_%283%29.jpg/1920px-B%C5%99evnovsk%C3%BD_kl%C3%A1%C5%A1ter_2019_%283%29.jpg
+p6-brevnov2 https://upload.wikimedia.org/wikipedia/commons/f/f0/Brevnov_Monastery.jpg
+p6-kulatak https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Praha%2C_Dejvice%2C_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg/1920px-Praha%2C_Dejvice%2C_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg
+p6-kulatak2 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dejvice_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_3.jpg/1920px-Dejvice_V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_3.jpg
+p6-hvezda https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/LetohradekHvezda2.jpg/1920px-LetohradekHvezda2.jpg
