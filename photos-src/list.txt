@@ -52,3 +52,5 @@ se2026-reg-csv https://volby.gov.cz/opendata/se2026/SE2026reg20261011_csv.zip
 se2026-cis-csv https://volby.gov.cz/opendata/se2026/SE2026ciselniky20261011_csv.zip
 ps2025-data-csv https://volby.gov.cz/opendata/ps2025/PS2025data20251005_csv.zip
 ps2025-reg-csv https://volby.gov.cz/opendata/ps2025/PS2025reg20251005_csv.zip
+se2020-data-csv https://volby.gov.cz/opendata/se2020/SENAT2020_data_20201010_k2_csv.zip
+se2020-reg-csv https://volby.gov.cz/opendata/se2020/SE2020reg20201010_csv.zip
