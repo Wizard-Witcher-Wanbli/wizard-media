@@ -1,0 +1,27 @@
+name: Fetch photos
+on:
+  push:
+    paths: ['photos-src/list.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download listed images
+        run: |
+          mkdir -p photos-src/img
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            [ -f "photos-src/img/$name.jpg" ] && continue
+            curl -sSL --fail -o "photos-src/img/$name.jpg" "$url" || echo "FAILED $name"
+          done < photos-src/list.txt
+      - name: Commit
+        run: |
+          git config user.name "photo-fetch-bot"
+          git config user.email "actions@github.com"
+          git add photos-src/img
+          git diff --cached --quiet || git commit -m "Fetch photos"
+          git push
