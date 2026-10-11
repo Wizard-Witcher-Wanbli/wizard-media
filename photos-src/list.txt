@@ -48,3 +48,4 @@ p6-hvezda https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/LetohradekHv
 kv2026-data-csv https://volby.gov.cz/opendata/kv2026/KV2026_data_20261011_csv.zip
 kv2026-reg-csv https://volby.gov.cz/opendata/kv2026/KV2026reg20261011_csv.zip
 kv2026-cis-csv https://volby.gov.cz/opendata/kv2026/KV2026ciselniky20261011_csv.zip
+praha-okrsky-geo https://ags.cuzk.cz/arcgis/rest/services/RUIAN/MapServer/20/query?where=obec%3D554782&outFields=kod,cislo,momc&returnGeometry=true&outSR=4326&maxAllowableOffset=0.00005&f=geojson
