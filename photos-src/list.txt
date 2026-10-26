@@ -53,3 +53,4 @@ w43-69-kuchyne https://images.unsplash.com/photo-1758523417543-3c82c6617a5e?w=24
 w43-image-mikrofon https://images.unsplash.com/photo-1485579149621-3123dd979885?w=2400&q=90&fm=jpg
 w43-ig-mikrofon https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=2400&q=90&fm=jpg
 w43-mpo-okno https://images.unsplash.com/photo-1520971434558-0b482cb0013f?w=2400&q=90&fm=jpg
+w44-69-bryle https://images.unsplash.com/photo-1518558406542-3dc7f0e69a40?w=2400&q=90&fm=jpg
