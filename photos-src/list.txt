@@ -71,3 +71,4 @@ a2-2026-zmena-stranka-cz https://cestina-pro-cizince.cz/trvaly-pobyt/zmena-zkous
 a2-2026-zmena-stranka-en https://cestina-pro-cizince.cz/trvaly-pobyt/en/zmena-zkousky-a2/
 a2-sylabus-npi-2021 https://cestina-pro-cizince.cz/trvaly-pobyt/wp-content/uploads/2021/12/11_NPI_Sylabus_sazba_WEB_300dpi.pdf
 a2-plakat-zmena https://www.oaulpar.cz/oaulpar/assets/files/home/Plakat_zmena_zkousky.pdf
+a2-2026-modelovy-test https://cestina-pro-cizince.cz/trvaly-pobyt/a2/wp-content/uploads/sites/3/2025/10/Modelovy-test-A2-novy-format-od-11.-dubna-2026.pdf
