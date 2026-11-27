@@ -98,3 +98,15 @@ v49-monet-lekniny https://commons.wikimedia.org/wiki/Special:FilePath/Monet_Wate
 v49-monet-zahrada https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Monet_-_The_Artist%E2%80%99s_Garden_in_Giverny_-_1983.7.12_-_Yale_University_Art_Gallery.jpg?width=2000
 v49-monet-zahrada-b https://commons.wikimedia.org/wiki/Special:FilePath/Monet_-_Monets_Garten_in_Giverny.jpg
 v49-kobilca-kofetarica https://commons.wikimedia.org/wiki/Special:FilePath/Kofetarica_(Coffee_drinker;_National_Gallery_of_Slovenia,_y._1888).jpg?width=2000
+v49-aids-px233223 https://images.pexels.com/photos/233223/pexels-photo-233223.jpeg
+v49-aids-pxb1885310 https://cdn.pixabay.com/photo/2016/12/06/00/56/couple-1885310_1280.jpg
+v49-aids-px15630853 https://images.pexels.com/photos/15630853/pexels-photo-15630853/free-photo-of-photo-of-a-couple-holding-hands.jpeg
+v49-budoucnost-px3337153 https://images.pexels.com/photos/3337153/pexels-photo-3337153.jpeg
+v49-britten-px35174490 https://images.pexels.com/photos/35174490/pexels-photo-35174490/free-photo-of-tranquil-park-benches-overlooking-ocean-sunset.jpeg
+v49-puda-pxb4091879 https://cdn.pixabay.com/photo/2019/03/30/19/31/hands-4091879_1280.jpg
+v49-puda-px7728382 https://images.pexels.com/photos/7728382/pexels-photo-7728382.jpeg
+v49-erickson-px601170 https://images.pexels.com/photos/601170/pexels-photo-601170.jpeg
+v49-erickson-px7964495 https://images.pexels.com/photos/7964495/pexels-photo-7964495.jpeg
+v49-porter-px13047884 https://images.pexels.com/photos/13047884/pexels-photo-13047884.jpeg
+v49-porter-px632075 https://images.pexels.com/photos/632075/pexels-photo-632075.jpeg
+v49-kobilca-k2 https://commons.wikimedia.org/wiki/Special:FilePath/Kofetarica_%28Coffee_drinker%3B_National_Gallery_of_Slovenia%2C_y._1888%29.jpg?width=2000
